@@ -1,0 +1,40 @@
+body {
+  background-image: url("src/assets/resources/images/professional-programmer-working-late-dark-office.jpg");
+  background-size: 100vw;
+  /*margin: 50px;*/
+  background-attachment: fixed;
+
+  /*margin: 0px;*/
+  padding: 50px;
+  box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+}
+h2 {
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: lighter;
+  text-align: center;
+  font-size: 20px;
+  margin-top: 20px;
+}
+.route-path {
+  color: #ffffff;
+  font-size: 2rem;
+  text-decoration: none;
+  margin: 0 10px 0 10px;
+  padding: 0 10px 0 10px;
+  font-weight: bold;
+
+  font-family: 'Montserrat', sans-serif;
+
+  background: rgba( 255, 255, 255, 0.20 );
+  /*box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );*/
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+.go-to-other-page {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+
+}

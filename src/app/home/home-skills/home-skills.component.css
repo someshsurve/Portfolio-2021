@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.home-skills-section {
+  margin: 50px;
+}
+
+.profile-photo {
+  /*background-image: url("src/assets/resources/images/photo/myPhoto.jpg");*/
+  /*border-radius: 100px;*/
+  border: 4px solid #26e8c6;
+  padding: 2px;
+  border-radius: 50%;
+  border-top-color: #8593ff;
+  border-left-color: #1fddff;
+  width: 400px;
+  margin-left: 70px;
+
+}
+.profile-photo:hover {
+  border: 4px solid #6c6cff;
+
+
+}
+.profile-header {
+  background: rgba( 255, 255, 255, 0.25 );
+  /*box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );*/
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+
+}
+
+h3 {
+  margin: 20px;
+  text-align: center;
+  color: white;
+  font-size: 2rem;
+  font-weight: 500;
+  font-family: 'Montserrat', sans-serif;
+}
+p {
+  margin: 20px;
+  text-align: center;
+  color: white;
+  font-size: 1.4rem;
+  font-weight: 400;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+.profile-header {
+  margin-top: 50px;
+}
+
+.aaa {
+  display: inline-block;
+  padding: 0 90px 0 90px;
+  vertical-align: top;
+  border-radius: 100px;
+  white-space: break-spaces;
+
+}
+.bbb {
+  vertical-align: top;
+  display: inline-block;
+  padding: 0 90px 0 90px;
+
+}
+
+
+
+

@@ -1,0 +1,30 @@
+img {
+  width: 50px;
+  margin: 20px;
+}
+h3 {
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  padding: 50px;
+}
+body {
+  /*margin-top: 100px;*/
+  margin: 100px 300px 0 300px;
+
+  background-size: cover;
+  background: rgba( 255, 255, 255, 0.25 );
+  /*box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );*/
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  text-align: center;
+}
+li {
+  list-style-type: none;
+  display: inline-block;
+}
+img:hover {
+  width: 45px;
+}

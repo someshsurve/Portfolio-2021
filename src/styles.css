@@ -1,0 +1,18 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /*background-image: url("assets/resources/images/professional-programmer-working-late-dark-office.jpg");*/
+  /*background-image: url("assets/resources/images/5172658.jpg");*/
+  /*background-size: cover;*/
+  background: linear-gradient(to bottom,#36D1DC, #5B86E5) no-repeat fixed,linear-gradient(black,white);
+  
+  /*background: rgb(255,255,255);*/
+
+
+
+  /*background-color: white;*/
+
+}
+
